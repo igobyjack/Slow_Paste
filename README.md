@@ -1,0 +1,2 @@
+# Slow Paste browser extension
+---
